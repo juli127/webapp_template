@@ -1,4 +1,4 @@
-package ua.test.servlets;
+package ua.template.servlets;
 
 import java.io.IOException;
 
@@ -9,8 +9,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import ua.test.controllers.UserController;
-import ua.test.models.User;
+import ua.template.controllers.UserController;
+import ua.template.models.User;
 
 @WebServlet (urlPatterns="/userservlet")
 public class UserServlet extends HttpServlet {

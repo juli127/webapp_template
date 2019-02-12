@@ -1,6 +1,6 @@
-package ua.test.controllers;
+package ua.template.controllers;
 
-import ua.test.models.User;
+import ua.template.models.User;
 
 public class UserController {
 

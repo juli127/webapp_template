@@ -1,4 +1,4 @@
-package ua.test.models;
+package ua.template.models;
 
 public class User {
 
